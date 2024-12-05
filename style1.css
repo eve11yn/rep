@@ -21,7 +21,10 @@ a{
   color: rgb(240, 240, 240);
   text-decoration: none;
 }
-
+a:hover{
+    color: grey ;
+    background-color: dimgrey;
+}
 
 main h2{
     padding-top: 20px;
